@@ -1,0 +1,7 @@
+@"
+cifar10_data/
+cifar-10.zip
+cifar10_arrays.npz
+best_phase1.keras
+export_samples.py
+"@ | Set-Content .gitignore
